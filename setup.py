@@ -4,7 +4,7 @@
 NAME = "ZenPacks.community.FormulaDataSource"
 VERSION = "1.4"
 AUTHOR = "Ryan Matte"
-LICENSE = "LGPL"
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.FormulaDataSource']
 INSTALL_REQUIRES = []
